@@ -1,0 +1,10 @@
+#pragma once
+#include <Arduino.h>
+#include "edusat_config.hpp"
+#include "button.hpp"
+#include "heat.hpp"
+#include "led.hpp"
+#include "motor.hpp"
+#include "mysd.hpp"
+#include "rover.hpp"
+#include "speaker.hpp"
